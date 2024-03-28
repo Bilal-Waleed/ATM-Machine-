@@ -1,0 +1,21 @@
+{
+  "name": "bw2atm-machine-",
+  "version": "1.0.0",
+  "description": "This is an ATM Machine it develop by using TypeScript",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bilal Waleed",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "bw2atm-machine-": "^1.0.0",
+    "inquirer": "^9.2.16"
+  }
+}
